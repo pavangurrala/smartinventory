@@ -41,6 +41,7 @@ namespace SmartInventory.Api.Endpoints
                 var deleted = await service.DeleteAsync(id);
                 return deleted ? Results.NoContent() : Results.NotFound();
             });
+
         }
     }
 }
