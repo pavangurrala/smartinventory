@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="SmartInventory.Api.csproj" />
+  <Folder Name="/Solution Items/">
+    <File Path=".dockerignore" />
+  </Folder>
+  <Project Path="../../../../../../source/repos/SmartInventory/backend/SmartInventory.Api/SmartInventory.Api.csproj" />
 </Solution>
