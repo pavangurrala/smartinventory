@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|c:\\users\\pavan\\source\\repos\\smartinventory\\backend\\smartinventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|c:\\users\\pavan\\source\\repos\\smartinventory\\backend\\smartinventory.api\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|solutionrelative:endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|c:\\users\\pavan\\source\\repos\\smartinventory\\backend\\smartinventory.api\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|solutionrelative:domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|c:\\users\\pavan\\source\\repos\\smartinventory\\backend\\smartinventory.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|c:\\users\\pavan\\source\\repos\\smartinventory\\backend\\smartinventory.api\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|solutionrelative:dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|c:\\users\\pavan\\source\\repos\\smartinventory\\backend\\smartinventory.api\\dtos\\queries\\productqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|solutionrelative:dtos\\queries\\productqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|c:\\users\\pavan\\source\\repos\\smartinventory\\backend\\smartinventory.api\\middlewares\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|solutionrelative:middlewares\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|c:\\users\\pavan\\source\\repos\\smartinventory\\backend\\smartinventory.api\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|solutionrelative:data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|c:\\users\\pavan\\source\\repos\\smartinventory\\backend\\smartinventory.api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|c:\\users\\pavan\\source\\repos\\smartinventory\\backend\\smartinventory.api\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|solutionrelative:middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|c:\\users\\pavan\\source\\repos\\smartinventory\\backend\\smartinventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|c:\\users\\pavan\\source\\repos\\smartinventory\\backend\\smartinventory.api\\dtos\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|solutionrelative:dtos\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|c:\\users\\pavan\\source\\repos\\smartinventory\\backend\\smartinventory.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9FC9FC-C7D7-212B-4475-F238C724F302}|SmartInventory.Api.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T20:11:47.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T20:07:45.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Domain\\Product.cs",
+              "RelativeToolTip": "Domain\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:27:48.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Endpoints\\ProductEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\ProductEndpoints.cs",
+              "ToolTip": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Endpoints\\ProductEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\ProductEndpoints.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T19:53:40.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-07T13:51:49.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T21:04:41.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Middlewares\\ApiErrorResponse.cs",
+              "RelativeDocumentMoniker": "Middlewares\\ApiErrorResponse.cs",
+              "ToolTip": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Middlewares\\ApiErrorResponse.cs",
+              "RelativeToolTip": "Middlewares\\ApiErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T21:46:00.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductQueryParameters.cs",
+              "DocumentMoniker": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Dtos\\Queries\\ProductQueryParameters.cs",
+              "RelativeDocumentMoniker": "Dtos\\Queries\\ProductQueryParameters.cs",
+              "ToolTip": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Dtos\\Queries\\ProductQueryParameters.cs",
+              "RelativeToolTip": "Dtos\\Queries\\ProductQueryParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T22:35:14.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Dtos\\PagedResult.cs",
+              "RelativeDocumentMoniker": "Dtos\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Dtos\\PagedResult.cs",
+              "RelativeToolTip": "Dtos\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T22:48:05.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T21:48:00.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:56:19.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDtos.cs",
+              "DocumentMoniker": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Dtos\\ProductDtos.cs",
+              "RelativeDocumentMoniker": "Dtos\\ProductDtos.cs",
+              "ToolTip": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Dtos\\ProductDtos.cs",
+              "RelativeToolTip": "Dtos\\ProductDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:43:14.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pavan\\source\\repos\\SmartInventory\\backend\\SmartInventory.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T13:30:13.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
